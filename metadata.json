@@ -1,0 +1,7 @@
+{
+  "name": "3D AI Chatbot (OpenAI + ElevenLabs)",
+  "description": "A 3D interactive chatbot using OpenAI for intelligence and ElevenLabs for TTS, featuring a default expressive avatar and optional MMD support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
